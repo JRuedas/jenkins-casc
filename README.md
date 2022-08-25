@@ -1,2 +1,2 @@
-# tfm-casc
-Repository to hold the tools used in the final Master's thesis of the DevOps Master.
+# Project to learn JCasC
+Repository to hold Jenkins configuration as code
